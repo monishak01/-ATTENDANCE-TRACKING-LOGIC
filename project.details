@@ -1,0 +1,42 @@
+Project Title : 
+Attendance Tracking Logic using Pattern Code in Python. 
+Problem Statement : 
+To design and implement an attendance tracking system using Python 
+that allows the user to mark students as Present or Absent and display 
+attendance summary including total present, total absent, and 
+attendance percentage. 
+Objective : 
+• To track student attendance using Python 
+• To use loops and conditional statements 
+• To apply dictionary data structure 
+• To calculate attendance percentage 
+• To understand basic logic building 
+4. Tools Used : 
+• Python 3 
+• VS Code / IDLE 
+5. Description : 
+This project simulates a simple attendance tracking system. 
+The user enters the number of students and marks each student as 
+Present (P) or Absent (A). 
+The program stores attendance using a dictionary and calculates total 
+present, total absent, and attendance percentage. 
+ Algorithm : 
+1. Start 
+2. Read number of students 
+3. Create empty dictionary for attendance 
+4. Loop through each student 
+5. Read attendance input (P/A) 
+6. If input is P → mark Present 
+7. Else → mark Absent 
+8. Count total Present and Absent 
+9. Calculate attendance percentage 
+ 
+Display summary 
+Stop 
+Result : 
+The attendance tracking system successfully records student 
+attendance and calculates attendance percentage correctly. 
+Conclusion : 
+This project demonstrates how Python can be used to build a simple 
+attendance tracking system using loops, conditional statements, and 
+dictionary data structure.
